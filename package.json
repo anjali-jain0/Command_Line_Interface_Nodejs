@@ -1,0 +1,19 @@
+{
+  "name": "customer-cli",
+  "version": "1.0.0",
+  "description": "customer managment CLI",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anjali jain",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.1",
+    "mongoose": "^5.4.1"
+  },
+  "devDependencies": {}
+}
